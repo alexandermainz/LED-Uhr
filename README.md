@@ -48,3 +48,6 @@ line 26. To remove that support, comment out lines 18-21 in `platformio.ini`
     * `#define STAPSK  "your-wifi-password"`
     * `#define OTAPWD  "your-ota-password"` (if you like to use ArduinoOTA)
 * remove `main.h` and `platformio.ini`, it's not needed on Arduino
+
+
+![alt text](https://github.com/alexandermainz/LED-Uhr/blob/master/LED-Uhr-2.jpeg "LED circle clock")
